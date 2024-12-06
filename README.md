@@ -1,0 +1,1 @@
+This project is a Triage Simulator. For those who don't know, a triage is a process in which caregivers determine the priority of patients by their injury. I used this project as a way to practice with priority queues such as 
